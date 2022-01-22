@@ -15,7 +15,7 @@ $ steghide --info Bangladesh.jpg
   capacity: 8,4 KB
 Try to get information about embedded data ? (y/n)
 ```
-2. File has hidden data, but we don't know the password. So I decided to bruteforce the password using `stegseek` and `rockyou` wordlist.
+2. File has hidden data, but we don't know the password. So I decided to bruteforce the password using `stegseek` and `rockyou.txt` wordlist.
 ```
 $ stegseek Bangladesh.jpg rockyou.txt
 StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
