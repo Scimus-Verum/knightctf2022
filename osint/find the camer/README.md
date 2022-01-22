@@ -8,7 +8,7 @@
 > Can you find the manufacturer and the model number of the camera that took the picture of this bus?
 
 ## Solution:
-
+![image](https://user-images.githubusercontent.com/74129817/150630284-dc4ae2d7-caf0-484e-ae25-b4c7e1bac1ad.png)
 1. On the image we can see the author of it: `JenCh012`
 2. If you google author name, you can find this link: https://fotobus.msk.ru/author/2739/
 3. On the original image we can see logos of 'Diddeleng'. Wikipedia says that it is a commune with town status in southern Luxembourg.
