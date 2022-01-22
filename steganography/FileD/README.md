@@ -1,4 +1,16 @@
 # FileD
-- Category: steganography
-- Author: 1xR1fat
+- **Category:** steganography
+- **Points:** 25 
+
+## Challenge:
+
+> Can you see everything?
+
+## Solution:
+
+test
+
+
+
+
 
