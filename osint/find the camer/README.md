@@ -9,9 +9,9 @@
 
 ## Solution:
 
-1. On the image we can the author of it: `JenCh012`
+1. On the image we can see the author of it: `JenCh012`
 2. If you google author name, you can find this link: https://fotobus.msk.ru/author/2739/
-3. On the original image we can find logos of 'Diddeleng'. It is a commune with town status in southern Luxembourg.
+3. On the original image we can see logos of 'Diddeleng'. Wikipedia says that it is a commune with town status in southern Luxembourg.
 4. So we need to find `JenCh012`'s bus images related to Luxembourg. To use a search option on this site we need to register an account.
 5. We can search buses by numeric code, our bus has `206` value. 
 6. As a result, we get this link: https://fotobus.msk.ru/photo/267442/?vid=204172
